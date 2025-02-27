@@ -10,4 +10,5 @@ Videos available in two options:
 2. mp4 (h264) encoded with separate color and alpha video.
 
 Font used for numbers on red-on-black dice is [Pirata One](https://fonts.google.com/specimen/Pirata+One).
+
 Font used for numbers on gold-on-purple dice is [Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface).
